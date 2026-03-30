@@ -441,7 +441,7 @@ export default function Home() {
           </div>
           <div className="bg-white rounded-2xl p-8 shadow-2xl">
             <form
-              action="https://formspree.io/f/-placeholder"
+              action="https://formspree.io/f/69946112"
               method="POST"
               className="space-y-5"
               id="contact-form"
